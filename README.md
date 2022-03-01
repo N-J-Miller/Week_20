@@ -29,7 +29,7 @@ Let's count together! (Because cats *love* numpurrrs...)
 
   4. Marvel at the output!
 
-![Using example input file:](https://github.com/N-J-Miller/Week_20/blob/62ec3e630f5e781b452889311d710e5480f7b3a9/execute_command.JPG)
+![Output:](https://github.com/N-J-Miller/Week_20/blob/1c42c7da74248809852c7f62f8bca3bb7e787306/output.JPG)
  
  **Note for VS Code**
  *If you cannot revel in the full glory of the expected output, check the Scrollback settings in VS Code. By default, you are limited to scrolling back 1000 lines per terminal session. Go ahead and bump this session way up! 😎*
