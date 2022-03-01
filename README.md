@@ -36,4 +36,6 @@ Let's count together! (Because cats *love* numpurrrs...)
  
  ![Crank it to 11(zeroes):](https://github.com/N-J-Miller/Week_20/blob/62ec3e630f5e781b452889311d710e5480f7b3a9/scrollback_settings.JPG)
  
+#### I hope you've enjoyed this program. Programs like this are important components of any Natural Language Processing toolkit. When dealing with natural language, the volume of data becomes its own problem. Being able to execute a few processing steps programatically is vital for computational viability.
+
  ### Thank you for going on this journey with me!
